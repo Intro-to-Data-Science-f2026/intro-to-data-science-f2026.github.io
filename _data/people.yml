@@ -1,17 +1,22 @@
-# Edit this file to add your course instructors and TAs.
-# profile_pic: put a photo in _images/pp/ and reference it here.
-# webpage: optional personal/faculty page link.
-#
-# Both instructors and TAs are added to the instructors-{semester} team
-# in the course org (maintain access). GitHub Classroom handles
-# submission-level grader access separately.
+# declared in the .github/dsl-course.yml `people:` block.
+
+instructor:
+  name: "Prof. Dr. Simon Munzert"
+  profile_pic: "https://www.hertie-school.org/fileadmin/_processed_/8/3/csm_Munzert_800px_928934b780.jpg"
+  webpage: "https://www.hertie-school.org/en/research/faculty-and-researchers/profile/person/munzert"
 
 instructors:
-  - name: "Instructor Name"
-    profile_pic: /_images/pp/placeholder.jpg
-    webpage: "https://hertie-school.org/en/datasciencelab"
+  - name: "Prof. Dr. Simon Munzert"
+    profile_pic: "https://www.hertie-school.org/fileadmin/_processed_/8/3/csm_Munzert_800px_928934b780.jpg"
+    webpage: "https://www.hertie-school.org/en/research/faculty-and-researchers/profile/person/munzert"
+    title: "Professor of Data Science and Public Policy | Director, Data Science Lab"
 
 teaching_assistants:
-  - name: "TA Name"
-    profile_pic: /_images/pp/placeholder.jpg
-    webpage: ""
+  - name: "Carol Sobral"
+    profile_pic: "https://www.hertie-school.org/fileadmin/_processed_/1/c/csm_carol_Carol_Sobral_44cb1bcfa2.jpg"
+    webpage: "https://www.hertie-school.org/en/who-we-are/profile/person/sobral"
+    title: "PhD Candidate, Doctoral Programme in Governance"
+  - name: "Killian Conyngham"
+    profile_pic: "https://avatars.githubusercontent.com/u/19914082?v=4"
+    webpage: "https://github.com/Killian-Conyngham"
+    title: "Teaching Assistant"
