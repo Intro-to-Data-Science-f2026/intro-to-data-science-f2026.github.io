@@ -9,7 +9,7 @@ course_name: "Intro to Data Science"
 course_description: "One paragraph description of the course."
 course_semester: "Fall 2026"
 course_code: "GRAD-E1339"
-github_org: "Hertie-School-Deep-Learning-E1394"  # GitHub org for this course
+github_org: "Intro-to-Data-Science-f2026"
 
 # --- Instructor / institution ---
 schoolname: "Hertie School"
