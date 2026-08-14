@@ -9,7 +9,7 @@ course_name: "Introduction to Data Science"
 course_description: "One paragraph description of the course."
 course_semester: "Fall 2026"
 course_code: "C11"
-github_org: "Intro-to-Data-Science-f2026"
+github_org: "hertie-intro-to-data-science-f2026"
 
 # --- Instructor / institution ---
 schoolname: "Hertie School"
@@ -38,7 +38,7 @@ plugins:
   - jekyll-feed
 
 baseurl: ""
-url: ""
+url: "https://hertie-intro-to-data-science-f2026.github.io"
 
 markdown: kramdown
 permalink: blog/:year/:month/:title
